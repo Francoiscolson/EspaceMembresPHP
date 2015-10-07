@@ -31,7 +31,7 @@ if(isset($_POST["envoie"])) // lordque l'utilisateur appuie sur le bouton inscri
 
             )    ;
 
-
+           echo "vous êtes inscrit";
 
         }
         else
